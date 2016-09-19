@@ -2,6 +2,10 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
+body table {
+  clear: both;
+}
+
 body table th,body table td {
   width: 18%;
   border: 1px solid grey;
